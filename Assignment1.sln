@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1", "Assignment1\Assignment1.csproj", "{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Debug|ARM.Build.0 = Debug|ARM
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Debug|x86.ActiveCfg = Debug|x86
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Debug|x86.Build.0 = Debug|x86
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Debug|x86.Deploy.0 = Debug|x86
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Release|ARM.ActiveCfg = Release|ARM
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Release|ARM.Build.0 = Release|ARM
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Release|ARM.Deploy.0 = Release|ARM
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Release|x86.ActiveCfg = Release|x86
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Release|x86.Build.0 = Release|x86
+		{E20FC3D4-2111-4DB5-8D60-2C4749E8F1FE}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
