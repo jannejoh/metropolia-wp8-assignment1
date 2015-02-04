@@ -64,7 +64,7 @@
                     <TextBlock Text="{Binding Path=LocalizedResources.PasswordLabel, Source={StaticResource LocalizedStrings}}" Grid.Column="0" Grid.Row="1" VerticalAlignment="Center"/>
                     <PasswordBox Name="Password" Grid.Column="1" Grid.Row="1" Background="#fff3c0" BorderBrush="#a4a4a4"/>
                 </Grid>
-                <Button Name="SignIn" Click="SignIn_Click" Content="{Binding Path=LocalizedResources.SignInButton, Source={StaticResource LocalizedStrings}}" Foreground="White" Background="#eb9c12" BorderBrush="#eb9c12" Width="250" HorizontalAlignment="Right"/>
+                <Button Name="SignIn" Click="SignIn_Click" Content="{Binding Path=LocalizedResources.SignInButton, Source={StaticResource LocalizedStrings}}" Foreground="White" Background="#eb9c12" BorderBrush="#eb9c12" Width="Auto" HorizontalAlignment="Right"/>
                 <TextBlock Name="SignInStatus" Foreground="Orange" Visibility="Collapsed" Margin="30,20,0,20"/>
 
                 <!-- Footer -->
